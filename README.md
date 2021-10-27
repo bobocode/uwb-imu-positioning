@@ -11,12 +11,12 @@ A ROS based library to perform localization for robot swarms using Ultra Wide Ba
 - [x] FGO localization algorithms that integrate UWB and IMU.
 - [x] EKF localization algotithms that integrate UWB and IMU.
 
-###1. Prerequisites
-####1.1 Ubuntu and ROS
+### 1. Prerequisites
+#### 1.1 Ubuntu and ROS
    * Ubuntu 64-bit 18.04
    * ROS Melodic. [ROS INSTALLATION](http://wiki.ros.org/ROS/Installation)
    
-####1.2 Ceres Solver
+#### 1.2 Ceres Solver
    * Ceres. [Ceres INSTALLATION](http://ceres-solver.org/installation.html)
 
 

@@ -1,0 +1,26 @@
+# %YAML:1.0
+# WARNING: AVOID any TAB in this file, otherwise there will be error.
+# parameters for SLAM
+
+# if < 20, fps is not used in uwb.
+slam_fps: 50
+td: 0.03
+
+# parameters for UWB localization
+# UWB setting ====================================
+# Mobile, if /uav_id is set, will follow the /uav_id
+mobile_id: 301
+
+# Anchor
+# Changi
+anchor_list: [101, 102, 103, 104, 105, 106]
+anchor_101: [0, 0, 0]
+anchor_102: [14.6339, 0.00044865, -0.000732158]
+anchor_103: [14.7428, 25.4994, -0.0135969]
+anchor_104: [-0.020438, -1.00138, 5.29275]
+anchor_105: [-0.0852587, 26.5864, 5.25772]
+anchor_106: [17.3644, 10.056, 5.24208]
+
+
+
+

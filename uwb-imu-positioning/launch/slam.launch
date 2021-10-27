@@ -1,0 +1,10 @@
+<launch>
+
+<node pkg="uwb-imu-positioning" type="uwb-imu-positioning" name="uwb-imu-positioning" output="screen">
+	<rosparam command="load" file="$(find slam_pp)/launch/slam.yaml" ns="slam"/>
+</node>
+
+<node pkg="tf" type="static_transform_publisher" name="base_link_laser_broadcaster" args="0 0 0 0 0 0 base_link laser 10" />
+<node pkg="tf" type="static_transform_publisher" name="world_map_broadcaster" args="0 0 0 0 0 0 world map 10" />
+
+</launch>

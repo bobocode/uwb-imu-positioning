@@ -1,6 +1,7 @@
 # uwb-imu-positioning
 ## Tightly-coupled integrated navigation system between UWB and IMU for UAV indoor localization
-### The FGO fusion part is written according to the paper [Tightly coupled integrated navigation system via factor graph for UAV indoor localization](https://www.sciencedirect.com/science/article/pii/S127096382031052X) 
+### The FGO fusion part is written according to the paper 
+[Tightly coupled integrated navigation system via factor graph for UAV indoor localization](https://www.sciencedirect.com/science/article/pii/S127096382031052X) 
 #### Currently it provides loosely and tightly coupled FGO integration. More codes is coming....
 
 ### Introduction

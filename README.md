@@ -1,6 +1,6 @@
 # uwb-imu-positioning
 ## Tightly-coupled integrated navigation system between UWB and IMU for UAV indoor localization
-### This is C++ version code of the paper [Tightly coupled integrated navigation system via factor graph for UAV indoor localization](https://www.sciencedirect.com/science/article/pii/S127096382031052X) 
+### This repository is a reimplementation of the paper [Tightly coupled integrated navigation system via factor graph for UAV indoor localization](https://www.sciencedirect.com/science/article/pii/S127096382031052X) 
 #### Currently it provides loosely and tightly coupled FGO integration. More codes is coming....
 
 ### Introduction

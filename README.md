@@ -9,7 +9,7 @@ A ROS based library to perform localization for robot swarms using Ultra Wide Ba
 ### Features
 - [x] beacon positioning with only UWB.
 - [x] FGO localization algorithms that integrate UWB and IMU.
-- [ ] Initialization with frame alighment and anchor refinement. **Coming...**
+- [ ] Initialization with frame alignment and anchor refinement. **Coming...**
 - [ ] EKF localization algotithms that integrate UWB and IMU. **Coming...**
 
 ### 1. Prerequisites
